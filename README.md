@@ -1,6 +1,5 @@
-===========================================
+
        Grocery Store BUY'n GO System
-===========================================
 This is a basic Python grocery store application.  
 Using their budget, users can view products, add items to a cart, and check out.  
 The application uses CSV files to store product and order data.
